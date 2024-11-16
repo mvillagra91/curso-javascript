@@ -44,7 +44,7 @@ switch (day) {
         dayName = "Martes"
         break
     case 2:
-        dayName = "MiÃ©rcoles"
+        dayName = "Miercoles"
         break
     case 3:
         dayName = "Jueves"
@@ -53,13 +53,13 @@ switch (day) {
         dayName = "Viernes"
         break
     case 5:
-        dayName = "SÃ¡bado"
+        dayName = "Sabado"
         break
     case 6:
         dayName = "Domingo"
         break
     default:
-        dayName = "NÃºmero de dÃ­a incorrecto"
+        dayName = "Numero de dia incorrecto"
 }
 
 console.log(dayName)
